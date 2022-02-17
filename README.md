@@ -1,6 +1,8 @@
 # LD Status Changer
 
-### Download: <a href="#download">clique aqui.</a>
+## Download
+
+[Clique aqui!](https://github.com/jpfpontes/lol-statuschanger/releases)
 
 ## Descrição
 Um projeto de aprendizado criado em C# .NET que permite alterar o Status no League of Legends e também conta com um alterador de ícone.
@@ -23,6 +25,4 @@ O alterador de ícone permite aplicar ícones ocultos do cliente.
 - Visual Studio 2019
 - Plugin C# para Visual Studio 2019
 
-Abra o arquivo `.sln`
-
-## <h2 id="download">Download Arquivo Compilado<h2>
+Abrir o arquivo `.sln`
