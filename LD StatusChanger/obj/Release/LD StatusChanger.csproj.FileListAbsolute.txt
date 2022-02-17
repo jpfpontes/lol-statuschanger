@@ -1,0 +1,54 @@
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger.exe.config
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger.exe
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger.pdb
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LCUSharp.dll
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\websocket-sharp-core.dll
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LCUSharp.pdb
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\Newtonsoft.Json.xml
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.csprojAssemblyReference.cache
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD_StatusChanger.Form1.resources
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD_StatusChanger.Properties.Resources.resources
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.csproj.GenerateResource.cache
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.csproj.CoreCompileInputs.cache
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.csproj.CopyComplete
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.exe
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.pdb
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\LD StatusChanger.exe.config
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\LD StatusChanger.exe
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\LD StatusChanger.pdb
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\LCUSharp.dll
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\Newtonsoft.Json.dll
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\websocket-sharp-core.dll
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\LCUSharp.pdb
+C:\Users\Jonny\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\Newtonsoft.Json.xml
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\LD StatusChanger.exe
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\LD StatusChanger.pdb
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\LCUSharp.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\Newtonsoft.Json.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\websocket-sharp-core.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\LCUSharp.pdb
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\Newtonsoft.Json.xml
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD_StatusChanger.Form1.resources
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD_StatusChanger.Properties.Resources.resources
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.csproj.GenerateResource.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.csproj.CopyComplete
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.exe
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.pdb
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.csproj.GenerateResource.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.exe
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.pdb
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\LD StatusChanger.exe
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\LD StatusChanger.pdb
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\LCUSharp.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\Newtonsoft.Json.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\websocket-sharp-core.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\LCUSharp.pdb
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LD StatusChanger\bin\Release\LD StatusChanger\Newtonsoft.Json.xml
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LD StatusChanger\obj\Release\LD_StatusChanger.Properties.Resources.resources
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LD StatusChanger\obj\Release\LD StatusChanger.csproj.CopyComplete
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LD StatusChanger\obj\Release\LD_StatusChanger.Form1.resources

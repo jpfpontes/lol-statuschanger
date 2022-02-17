@@ -1,0 +1,27 @@
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.AssemblyInfo.cs
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\bin\Release\netstandard2.0\LCUSharp.deps.json
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\bin\Release\netstandard2.0\LCUSharp.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\bin\Release\netstandard2.0\LCUSharp.pdb
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.pdb
+C:\Users\joaop\source\repos\LD StatusChanger\LCUSharp\bin\Release\netstandard2.0\LCUSharp.deps.json
+C:\Users\joaop\source\repos\LD StatusChanger\LCUSharp\bin\Release\netstandard2.0\LCUSharp.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LCUSharp\bin\Release\netstandard2.0\LCUSharp.pdb
+C:\Users\joaop\source\repos\LD StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.AssemblyInfo.cs
+C:\Users\joaop\source\repos\LD StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.pdb
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LCUSharp\bin\Release\netstandard2.0\LCUSharp.deps.json
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LCUSharp\bin\Release\netstandard2.0\LCUSharp.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LCUSharp\bin\Release\netstandard2.0\LCUSharp.pdb
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.AssemblyInfo.cs
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LD-StatusChanger\LCUSharp\obj\Release\netstandard2.0\LCUSharp.pdb

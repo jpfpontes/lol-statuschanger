@@ -1,0 +1,15 @@
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\bin\Debug\net5.0\LCUSharp.deps.json
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\bin\Debug\net5.0\LCUSharp.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\bin\Debug\net5.0\ref\LCUSharp.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\bin\Debug\net5.0\LCUSharp.pdb
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\bin\Debug\net5.0\System.Reactive.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\bin\Debug\net5.0\System.Reactive.xml
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\obj\Debug\net5.0\LCUSharp.csproj.AssemblyReference.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\obj\Debug\net5.0\LCUSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\obj\Debug\net5.0\LCUSharp.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\obj\Debug\net5.0\LCUSharp.AssemblyInfo.cs
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\obj\Debug\net5.0\LCUSharp.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\obj\Debug\net5.0\LCUSharp.csproj.CopyComplete
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\obj\Debug\net5.0\LCUSharp.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\obj\Debug\net5.0\ref\LCUSharp.dll
+C:\Users\joaop\source\repos\LD StatusChanger\LD StatusChanger\LCUSharp\obj\Debug\net5.0\LCUSharp.pdb

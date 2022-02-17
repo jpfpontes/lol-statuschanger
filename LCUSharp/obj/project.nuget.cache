@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kaQ3h2n8uMW0Yhm6/gC6CDwwy3NM6GScDWZKbtrYxP2oX3rnNtERtOantpVa4wKrQ+ZvGh0FhE50+L3PDYQZ/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaop\\source\\repos\\LD StatusChanger\\LD-StatusChanger\\LCUSharp\\LCUSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaop\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\websocketsharp.core\\1.0.0\\websocketsharp.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
